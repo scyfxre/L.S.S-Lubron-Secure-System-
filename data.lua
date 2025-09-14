@@ -1,4 +1,4 @@
 return {
     SwaggaVersion = "1.0.7",
-    ShutDownForDis = true
+    ShutDownForDis = false
 }
